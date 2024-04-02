@@ -14,7 +14,6 @@ I love Building cazy Stuff From Window a using web and native Technologies!
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: You have to know me first 🫡
 
 SKILLS 
 
