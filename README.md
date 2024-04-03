@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Shashank Lodhi
 
 A Sophomore Student and a passionate Developer From India, exploring the world of ML. 
+I also do a bit of graphic design !
 I love Building cazy Stuff From Window a using web and native Technologies! 
 
 
@@ -17,11 +18,13 @@ I love Building cazy Stuff From Window a using web and native Technologies!
 
 SKILLS 
 
-C,HTML,CSS,Python, Web development
+C,HTML,CSS,Python,Web development
 
 USES
 
-Visual Studio Code
+Visual Studio Code and GitHub 
+
+Canva and Figma 
 
 <!--
 **ShashankRajput90/shashankrajput90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
