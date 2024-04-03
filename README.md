@@ -1,7 +1,9 @@
-### Hi there 👋 I'm Shashank Lodhi
+###Hi there 👋 I'm Shashank Lodhi![1000122482](https://github.com/ShashankRajput90/shashankrajput90/assets/76483015/c33e79c6-760b-4c69-9529-24b3e2f18854) 
 
 A Sophomore Student and a passionate Developer From India, exploring the world of ML. 
+
 I also do a bit of graphic design !
+
 I love Building cazy Stuff From Window a using web and native Technologies! 
 
 
