@@ -10,9 +10,11 @@ I love Building cazy Stuff From Window a using web and native Technologies!
 
 👋 Hi, I’m @ShashankRajput90
 
-👀 I’m interested in Data Science, AI-ML
+👀 I’m interested in Data Science,ML
 
-💞️ I’m looking to collaborate on Web And AI projects
+💞️ I’m looking to collaborate on ML And AI projects
+
+🌱 I’m currently learning Scikit-learn and NumPy
 
 📫 How to reach me rajputshashank9012@gmail.com
 
@@ -21,7 +23,7 @@ I love Building cazy Stuff From Window a using web and native Technologies!
 
 SKILLS 
 
-C,HTML,CSS,Python,Web development
+C, HTML, CSS, Python, Machine Learning
 
 USES
 
