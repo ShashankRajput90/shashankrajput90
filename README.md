@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Shashank Lodhi!
 ![3](https://github.com/user-attachments/assets/e5cbc80d-41c0-40a1-a1cc-4e49bd218b7d)
 
-https://github-readme-stats.vercel.app/api?username=ShashankRajput90)](https://github.com/ShashankRajput90/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShashankRajput90&theme=apprentice)
 
 A Sophomore Student and a passionate Developer From India, exploring the world of ML. 
 
